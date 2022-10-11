@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Tarun Gupta](https://twitter.com/tarun_gupta7) an engineer and a sports enthusiast.
+## Hey 👋, I'm [Tarun Gupta](https://twitter.com/tarun_gupta7) a frontend engineer and a sports enthusiast.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarungupta2811/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tarun_gupta7)
